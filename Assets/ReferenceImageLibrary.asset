@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5236152511018585345
+  m_GuidHigh: 452881742036494521
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5334291708125527882
+      m_GuidHigh: 12862510906476725415
+    m_SerializedTextureGuid:
+      m_GuidLow: 8711196317158037515
+      m_GuidHigh: 8903661976585899066
+    m_Size: {x: 0.059623998, y: 0.087}
+    m_SpecifySize: 1
+    m_Name: yu-gi-uh
+    m_Texture: {fileID: 2800000, guid: 84e5580b62e578e43a0c8ee26429907b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5748370973827056873
+      m_GuidHigh: 17683419827254008736
+    m_SerializedTextureGuid:
+      m_GuidLow: 13007662800140502566
+      m_GuidHigh: 17046604346541920824
+    m_Size: {x: 0.059624, y: 0.08299016}
+    m_SpecifySize: 1
+    m_Name: Card_Back_Lorcana
+    m_Texture: {fileID: 2800000, guid: 307006268066b48438d2421e56b491ec, type: 3}
